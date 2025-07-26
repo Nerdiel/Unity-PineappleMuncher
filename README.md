@@ -4,13 +4,6 @@
 
 ---
 
-## 📦 Download
-
-The game build is available in the [**Releases**](../../releases) section.  
-Just download it, unzip if necessary, and run the executable to play.
-
----
-
 ## 🎮 Gameplay
 
 Control a hungry pineapple muncher as you gobble up fruits and avoid obstacles!  
@@ -42,13 +35,4 @@ Although the core mechanics are tutorial-based, it marks my first complete game 
 - Basic mechanics: movement, collision, scoring
 - Tutorial-based foundation + personal experimentation
 
----
 
-## 💬 Contact
-
-Let me know your thoughts on the game, suggestions, or just say hi:
-
-- GitHub: [@Nerdiel](https://github.com/Nerdiel)  
-- LinkedIn: [Daniel Heřt](https://www.linkedin.com/in/danielhert/)  
-
-Thanks for checking it out! 🚀
